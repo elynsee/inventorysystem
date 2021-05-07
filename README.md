@@ -1,4 +1,4 @@
-# COMP0002 Coursework 1 - Inventory Management System
+# Simple Inventory Management System for a Small Business
 
 ## About the Inventory Management System
 
